@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220364549933",
+    "project_id": "ijob-clone-app-1232f",
+    "storage_bucket": "ijob-clone-app-1232f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220364549933:android:e0a5013817cb4ea65aada4",
+        "android_client_info": {
+          "package_name": "com.example.jobfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5niAHo6dwYVf_qpdmxABFg6gopxSvKnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
